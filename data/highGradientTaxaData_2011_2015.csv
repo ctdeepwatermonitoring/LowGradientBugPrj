@@ -167,7 +167,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25647,11-B-008,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Tvetenia bavarica group,L,1,9/27/2011,9,2011,Tvetenia bavarica group,25647_9_27_2011_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Tvetenia bavarica group,L,6,10/12/2011,10,2011,Tvetenia bavarica group,25740_10_12_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Tvetenia bavarica group,L,2,10/11/2011,10,2011,Tvetenia bavarica group,25738_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Tvetenia bavarica group,L,2,10/12/2011,10,2011,Tvetenia bavarica group,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Tvetenia bavarica group,L,2,10/12/2011,10,2011,Tvetenia bavarica group,25739_10_12_2011_1_first
 25781,11-B-014,15796,PENDLETON HILL BROOK,41.4748,-71.8342,1,Riffle,KN2M2,First,EcoAnalysts,Tvetenia bavarica group,P,1,10/11/2011,10,2011,Tvetenia bavarica group,25781_10_11_2011_1_First
 25781,11-B-014,15796,PENDLETON HILL BROOK,41.4748,-71.8342,1,Riffle,KN2M2,First,EcoAnalysts,Tvetenia bavarica group,L,4,10/11/2011,10,2011,Tvetenia bavarica group,25781_10_11_2011_1_First
 25780,11-B-013,14720,Green Fall River,41.4568,-71.8169,1,Riffle,KN2M2,First,EcoAnalysts,Tvetenia bavarica group,L,6,10/11/2011,10,2011,Tvetenia bavarica group,25780_10_11_2011_1_First
@@ -547,7 +547,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 620.2-071,15-B-062,16049,Naugatuck River,41.7412,-73.1148,1,Riffle,KN2M2,First,WAA,Tvetenia,L,1,9/24/2015,9,2015,Tvetenia,620.2-071_9_24_2015_1_First
 620.2-055,15-B-048,14444,Saugatuck River,41.2945,-73.3948,1,Riffle,KN2M2,First,WAA,Tvetenia,L,1,9/22/2015,9,2015,Tvetenia,620.2-055_9_22_2015_1_First
 620.2-063,15-B-055,14842,Indian Meadow Brook,41.9305,-73.079,1,Riffle,KN2M2,First,WAA,Eukiefferiella,L,1,9/23/2015,9,2015,Tvetenia,620.2-063_9_23_2015_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Turbellaria,A,3,10/12/2011,10,2011,Turbellaria,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Turbellaria,A,3,10/12/2011,10,2011,Turbellaria,25739_10_12_2011_1_first
 25742,11-B-020,16323,Coginchaug River,41.5394,-72.6858,1,Riffle,KN2M2,First,EcoAnalysts,Turbellaria,A,1,10/12/2011,10,2011,Turbellaria,25742_10_12_2011_1_First
 25743,11-B-021,16307,Long Hill Brook,41.5408,-72.653,1,Riffle,KN2M2,First,EcoAnalysts,Turbellaria,A,2,10/12/2011,10,2011,Turbellaria,25743_10_12_2011_1_First
 25744,11-B-022,14441,Salmon River,41.5742,-72.4294,1,Riffle,KN2M2,First,EcoAnalysts,Turbellaria,A,1,10/12/2011,10,2011,Turbellaria,25744_10_12_2011_1_First
@@ -1556,7 +1556,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25736,11-B-010,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Taeniopteryx,L,8,10/11/2011,10,2011,Taeniopteryx,25736_10_11_2011_1_First
 25737,11-B-011,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Taeniopteryx,L,1,10/11/2011,10,2011,Taeniopteryx,25737_10_11_2011_1_First
 25735,11-B-009,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Taeniopteryx,L,27,10/11/2011,10,2011,Taeniopteryx,25735_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Taeniopteryx,L,5,10/12/2011,10,2011,Taeniopteryx,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Taeniopteryx,L,5,10/12/2011,10,2011,Taeniopteryx,25739_10_12_2011_1_first
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Taeniopteryx,L,5,10/12/2011,10,2011,Taeniopteryx,25740_10_12_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Taeniopteryx,L,11,10/11/2011,10,2011,Taeniopteryx,25738_10_11_2011_1_First
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Taeniopteryx,L,1,9/19/2011,9,2011,Taeniopteryx,25465_9_19_2011_1_First
@@ -2469,7 +2469,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25647,11-B-008,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Stenelmis,L,9,9/27/2011,9,2011,Stenelmis,25647_9_27_2011_1_First
 25647,11-B-008,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Stenelmis,A,2,9/27/2011,9,2011,Stenelmis,25647_9_27_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Stenelmis,L,3,10/11/2011,10,2011,Stenelmis,25738_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Stenelmis,L,2,10/12/2011,10,2011,Stenelmis,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Stenelmis,L,2,10/12/2011,10,2011,Stenelmis,25739_10_12_2011_1_first
 25463,11-B-002,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Stenelmis,L,1,9/19/2011,9,2011,Stenelmis,25463_9_19_2011_1_First
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Stenelmis,L,7,9/19/2011,9,2011,Stenelmis,25465_9_19_2011_1_First
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Stenelmis,A,2,9/19/2011,9,2011,Stenelmis,25465_9_19_2011_1_First
@@ -3090,8 +3090,8 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Simulium,L,8,10/12/2011,10,2011,Simulium,25740_10_12_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Simulium,P,2,10/11/2011,10,2011,Simulium,25738_10_11_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Simulium,L,8,10/11/2011,10,2011,Simulium,25738_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Simulium,P,1,10/12/2011,10,2011,Simulium,25739_10_12_2011_1_first
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Simulium,L,1,10/12/2011,10,2011,Simulium,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Simulium,P,1,10/12/2011,10,2011,Simulium,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Simulium,L,1,10/12/2011,10,2011,Simulium,25739_10_12_2011_1_first
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Simulium,P,3,9/19/2011,9,2011,Simulium,25465_9_19_2011_1_First
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Simulium,L,19,9/19/2011,9,2011,Simulium,25465_9_19_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Simulium,L,4,9/19/2011,9,2011,Simulium,25462_9_19_2011_1_First
@@ -4242,7 +4242,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 620.1-114,14-B-124,15413,Belcher Brook,41.605,-72.7577,1,Riffle,KN2M2,First,WAA,Rheotanytarsus pellucidus group,L,5,10/8/2014,10,2014,Rheotanytarsus pellucidus group,620.1-114_10_8_2014_1_First
 25736,11-B-010,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Rheotanytarsus exiguus group,L,1,10/11/2011,10,2011,Rheotanytarsus exiguus group,25736_10_11_2011_1_First
 25737,11-B-011,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Rheotanytarsus exiguus group,L,4,10/11/2011,10,2011,Rheotanytarsus exiguus group,25737_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Rheotanytarsus exiguus group,L,2,10/12/2011,10,2011,Rheotanytarsus exiguus group,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Rheotanytarsus exiguus group,L,2,10/12/2011,10,2011,Rheotanytarsus exiguus group,25739_10_12_2011_1_first
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Rheotanytarsus exiguus group,L,9,9/19/2011,9,2011,Rheotanytarsus exiguus group,25465_9_19_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Rheotanytarsus exiguus group,L,1,9/19/2011,9,2011,Rheotanytarsus exiguus group,25462_9_19_2011_1_First
 25646,11-B-007,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Rheotanytarsus exiguus group,P,1,9/27/2011,9,2011,Rheotanytarsus exiguus group,25646_9_27_2011_1_First
@@ -4841,7 +4841,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Psephenus herricki,L,2,10/12/2011,10,2011,Psephenus herricki,25740_10_12_2011_1_First
 25647,11-B-008,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Psephenus herricki,L,5,9/27/2011,9,2011,Psephenus herricki,25647_9_27_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Psephenus herricki,L,8,10/11/2011,10,2011,Psephenus herricki,25738_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Psephenus herricki,L,8,10/12/2011,10,2011,Psephenus herricki,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Psephenus herricki,L,8,10/12/2011,10,2011,Psephenus herricki,25739_10_12_2011_1_first
 25463,11-B-002,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Psephenus herricki,L,8,9/19/2011,9,2011,Psephenus herricki,25463_9_19_2011_1_First
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Psephenus herricki,L,9,9/19/2011,9,2011,Psephenus herricki,25465_9_19_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Psephenus herricki,L,6,9/19/2011,9,2011,Psephenus herricki,25462_9_19_2011_1_First
@@ -5871,7 +5871,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25736,11-B-010,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Polypedilum flavum,L,1,10/11/2011,10,2011,Polypedilum flavum,25736_10_11_2011_1_First
 25737,11-B-011,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Polypedilum flavum,L,6,10/11/2011,10,2011,Polypedilum flavum,25737_10_11_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Polypedilum flavum,L,1,10/11/2011,10,2011,Polypedilum flavum,25738_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Polypedilum flavum,L,1,10/12/2011,10,2011,Polypedilum flavum,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Polypedilum flavum,L,1,10/12/2011,10,2011,Polypedilum flavum,25739_10_12_2011_1_first
 25646,11-B-007,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Polypedilum flavum,P,1,9/27/2011,9,2011,Polypedilum flavum,25646_9_27_2011_1_First
 25646,11-B-007,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Polypedilum flavum,L,12,9/27/2011,9,2011,Polypedilum flavum,25646_9_27_2011_1_First
 25645,11-B-006,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Polypedilum flavum,L,1,9/27/2011,9,2011,Polypedilum flavum,25645_9_27_2011_1_First
@@ -6476,7 +6476,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25735,11-B-009,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Plauditus,L,1,10/11/2011,10,2011,Plauditus,25735_10_11_2011_1_First
 25736,11-B-010,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Baetis,L,2,10/11/2011,10,2011,Plauditus,25736_10_11_2011_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Baetis,L,2,10/12/2011,10,2011,Plauditus,25740_10_12_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Baetis,L,4,10/12/2011,10,2011,Plauditus,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Baetis,L,4,10/12/2011,10,2011,Plauditus,25739_10_12_2011_1_first
 25644,11-B-005,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Baetis,L,8,9/27/2011,9,2011,Plauditus,25644_9_27_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Baetis,L,6,9/19/2011,9,2011,Plauditus,25462_9_19_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Plauditus,L,1,9/19/2011,9,2011,Plauditus,25462_9_19_2011_1_First
@@ -8370,8 +8370,8 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25735,11-B-009,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Oulimnius,A,2,10/11/2011,10,2011,Oulimnius,25735_10_11_2011_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Oulimnius,L,4,10/12/2011,10,2011,Oulimnius,25740_10_12_2011_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Oulimnius,A,4,10/12/2011,10,2011,Oulimnius,25740_10_12_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Oulimnius,L,16,10/12/2011,10,2011,Oulimnius,25739_10_12_2011_1_first
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Oulimnius,A,8,10/12/2011,10,2011,Oulimnius,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Oulimnius,L,16,10/12/2011,10,2011,Oulimnius,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Oulimnius,A,8,10/12/2011,10,2011,Oulimnius,25739_10_12_2011_1_first
 25463,11-B-002,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Oulimnius,A,2,9/19/2011,9,2011,Oulimnius,25463_9_19_2011_1_First
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Oulimnius,A,1,9/19/2011,9,2011,Oulimnius,25465_9_19_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Oulimnius,A,3,9/19/2011,9,2011,Oulimnius,25462_9_19_2011_1_First
@@ -9008,7 +9008,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25998,11-B-135,14484,West Branch Salmon Brook,41.9372,-72.8215,1,Riffle,KN2M2,First,EcoAnalysts,Orthocladius (Euorthocladius) rivicola,L,27,11/10/2011,11,2011,Orthocladius (Euorthocladius) rivicola,25998_11_10_2011_1_First
 25735,11-B-009,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Orthocladius (Euorthocladius),L,4,10/11/2011,10,2011,Orthocladius (Euorthocladius),25735_10_11_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Orthocladius (Euorthocladius),L,1,10/11/2011,10,2011,Orthocladius (Euorthocladius),25738_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Orthocladius (Euorthocladius),L,2,10/12/2011,10,2011,Orthocladius (Euorthocladius),25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Orthocladius (Euorthocladius),L,2,10/12/2011,10,2011,Orthocladius (Euorthocladius),25739_10_12_2011_1_first
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Orthocladius (Euorthocladius),L,1,9/19/2011,9,2011,Orthocladius (Euorthocladius),25462_9_19_2011_1_First
 25644,11-B-005,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Orthocladius (Euorthocladius),L,1,9/27/2011,9,2011,Orthocladius (Euorthocladius),25644_9_27_2011_1_First
 25783,11-B-016,16112,Hemlock Valley Brook,41.4283,-72.4226,1,Riffle,KN2M2,First,EcoAnalysts,Orthocladius (Euorthocladius),L,1,10/11/2011,10,2011,Orthocladius (Euorthocladius),25783_10_11_2011_1_First
@@ -9601,7 +9601,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25735,11-B-009,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Optioservus,A,1,10/11/2011,10,2011,Optioservus,25735_10_11_2011_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Optioservus,L,4,10/12/2011,10,2011,Optioservus,25740_10_12_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Optioservus,L,2,10/11/2011,10,2011,Optioservus,25738_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Optioservus,L,6,10/12/2011,10,2011,Optioservus,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Optioservus,L,6,10/12/2011,10,2011,Optioservus,25739_10_12_2011_1_first
 25463,11-B-002,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Optioservus,L,58,9/19/2011,9,2011,Optioservus,25463_9_19_2011_1_First
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Optioservus,L,7,9/19/2011,9,2011,Optioservus,25465_9_19_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Optioservus,L,1,9/19/2011,9,2011,Optioservus,25462_9_19_2011_1_First
@@ -10937,7 +10937,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25736,11-B-010,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Microtendipes pedellus group,L,2,10/11/2011,10,2011,Microtendipes pedellus group,25736_10_11_2011_1_First
 25737,11-B-011,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Microtendipes pedellus group,L,3,10/11/2011,10,2011,Microtendipes pedellus group,25737_10_11_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Microtendipes pedellus group,L,1,10/11/2011,10,2011,Microtendipes pedellus group,25738_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Microtendipes pedellus group,L,1,10/12/2011,10,2011,Microtendipes pedellus group,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Microtendipes pedellus group,L,1,10/12/2011,10,2011,Microtendipes pedellus group,25739_10_12_2011_1_first
 25463,11-B-002,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Microtendipes pedellus group,L,1,9/19/2011,9,2011,Microtendipes pedellus group,25463_9_19_2011_1_First
 25780,11-B-013,14720,Green Fall River,41.4568,-71.8169,1,Riffle,KN2M2,First,EcoAnalysts,Microtendipes pedellus group,L,2,10/11/2011,10,2011,Microtendipes pedellus group,25780_10_11_2011_1_First
 25784,11-B-026,15901,Pond Meadow Brook,41.3777,-72.5946,1,Riffle,KN2M2,First,EcoAnalysts,Microtendipes pedellus group,L,1,10/13/2011,10,2011,Microtendipes pedellus group,25784_10_13_2011_1_First
@@ -11283,8 +11283,8 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 620.2-092,15-B-081,17295,Bigelow Brook,41.9182,-72.1398,1,Riffle,KN2M2,First,WAA,Microcylloepus pusillus,L,1,10/1/2015,10,2015,Microcylloepus pusillus,620.2-092_10_1_2015_1_First
 620.2-100,15-B-089,15413,Belcher Brook,41.605,-72.7577,1,Riffle,KN2M2,First,WAA,Microcylloepus pusillus,L,3,10/2/2015,10,2015,Microcylloepus pusillus,620.2-100_10_2_2015_1_First
 620.2-099,15-B-088,15201,Spoonshop Brook,41.545673,-72.765549,1,Riffle,KN2M2,First,WAA,Microcylloepus pusillus,L,2,10/2/2015,10,2015,Microcylloepus pusillus,620.2-099_10_2_2015_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Microcylloepus,A,1,10/12/2011,10,2011,Microcylloepus,25739_10_12_2011_1_first
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Microcylloepus,L,1,10/12/2011,10,2011,Microcylloepus,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Microcylloepus,A,1,10/12/2011,10,2011,Microcylloepus,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Microcylloepus,L,1,10/12/2011,10,2011,Microcylloepus,25739_10_12_2011_1_first
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Microcylloepus,A,1,9/19/2011,9,2011,Microcylloepus,25465_9_19_2011_1_First
 25781,11-B-014,15796,PENDLETON HILL BROOK,41.4748,-71.8342,1,Riffle,KN2M2,First,EcoAnalysts,Microcylloepus,L,2,10/11/2011,10,2011,Microcylloepus,25781_10_11_2011_1_First
 25784,11-B-026,15901,Pond Meadow Brook,41.3777,-72.5946,1,Riffle,KN2M2,First,EcoAnalysts,Microcylloepus,L,3,10/13/2011,10,2011,Microcylloepus,25784_10_13_2011_1_First
@@ -11927,7 +11927,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25735,11-B-009,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Maccaffertium,L,9,10/11/2011,10,2011,Maccaffertium,25735_10_11_2011_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Maccaffertium,L,2,10/12/2011,10,2011,Maccaffertium,25740_10_12_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Maccaffertium,L,9,10/11/2011,10,2011,Maccaffertium,25738_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Maccaffertium,L,1,10/12/2011,10,2011,Maccaffertium,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Maccaffertium,L,1,10/12/2011,10,2011,Maccaffertium,25739_10_12_2011_1_first
 25463,11-B-002,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Maccaffertium,L,19,9/19/2011,9,2011,Maccaffertium,25463_9_19_2011_1_First
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Maccaffertium,L,3,9/19/2011,9,2011,Maccaffertium,25465_9_19_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Maccaffertium,L,24,9/19/2011,9,2011,Maccaffertium,25462_9_19_2011_1_First
@@ -13087,7 +13087,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 620.2-121,15-B-109,15719,Blackwell Brook,41.7843,-71.9626,1,Riffle,KN2M2,First,WAA,Leucrocuta,L,9,10/6/2015,10,2015,Leucrocuta,620.2-121_10_6_2015_1_First
 620.2-095,15-B-084,14866,Stickney Hill Brook,41.9833,-72.2179,1,Riffle,KN2M2,First,WAA,Leucrocuta,L,5,10/1/2015,10,2015,Leucrocuta,620.2-095_10_1_2015_1_First
 620.2-092,15-B-081,17295,Bigelow Brook,41.9182,-72.1398,1,Riffle,KN2M2,First,WAA,Leucrocuta,L,5,10/1/2015,10,2015,Leucrocuta,620.2-092_10_1_2015_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Leucotrichia pictipes,L,8,10/12/2011,10,2011,Leucotrichia pictipes,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Leucotrichia pictipes,L,8,10/12/2011,10,2011,Leucotrichia pictipes,25739_10_12_2011_1_first
 25812,11-B-052,16337,Beaver Brook,41.3351,-73.0766,1,Riffle,KN2M2,First,EcoAnalysts,Leucotrichia pictipes,L,2,10/20/2011,10,2011,Leucotrichia pictipes,25812_10_20_2011_1_First
 25906,11-B-089,14316,Naugatuck River,41.6159,-73.0579,1,Riffle,KN2M2,First,EcoAnalysts,Leucotrichia pictipes,L,1,10/26/2011,10,2011,Leucotrichia pictipes,25906_10_26_2011_1_First
 25903,11-B-086,14341,Naugatuck River,41.7891,-73.1145,1,Riffle,KN2M2,First,EcoAnalysts,Leucotrichia pictipes,L,1,10/26/2011,10,2011,Leucotrichia pictipes,25903_10_26_2011_1_First
@@ -14141,7 +14141,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 620.2-045,15-B-038,16202,Coginchaug River,41.5666,-72.6644,1,Riffle,KN2M2,First,WAA,Hydroptila,L,1,9/17/2015,9,2015,Hydroptila,620.2-045_9_17_2015_1_First
 620.2-030,15-B-026,15176,Natchaug River,41.7569,-72.1523,1,Riffle,KN2M2,First,WAA,Hydroptila,L,3,9/16/2015,9,2015,Hydroptila,620.2-030_9_16_2015_1_First
 25735,11-B-009,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsychidae,L,3,10/11/2011,10,2011,Hydropsychidae,25735_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Hydropsychidae,L,3,10/12/2011,10,2011,Hydropsychidae,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsychidae,L,3,10/12/2011,10,2011,Hydropsychidae,25739_10_12_2011_1_first
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsychidae,L,4,9/19/2011,9,2011,Hydropsychidae,25465_9_19_2011_1_First
 25646,11-B-007,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsychidae,L,2,9/27/2011,9,2011,Hydropsychidae,25646_9_27_2011_1_First
 25647,11-B-008,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsychidae,L,1,9/27/2011,9,2011,Hydropsychidae,25647_9_27_2011_1_First
@@ -14366,7 +14366,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25737,11-B-011,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsyche betteni,L,3,10/11/2011,10,2011,Hydropsyche betteni,25737_10_11_2011_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsyche betteni,L,9,10/12/2011,10,2011,Hydropsyche betteni,25740_10_12_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsyche betteni,L,17,10/11/2011,10,2011,Hydropsyche betteni,25738_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Hydropsyche betteni,L,8,10/12/2011,10,2011,Hydropsyche betteni,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsyche betteni,L,8,10/12/2011,10,2011,Hydropsyche betteni,25739_10_12_2011_1_first
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsyche betteni,L,11,9/19/2011,9,2011,Hydropsyche betteni,25465_9_19_2011_1_First
 25646,11-B-007,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsyche betteni,L,1,9/27/2011,9,2011,Hydropsyche betteni,25646_9_27_2011_1_First
 25647,11-B-008,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsyche betteni,L,23,9/27/2011,9,2011,Hydropsyche betteni,25647_9_27_2011_1_First
@@ -15122,7 +15122,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 620.2-089,15-B-078,15312,Beaver Brook,41.409952,-72.329059,1,Riffle,KN2M2,First,WAA,Heptageniidae,L,3,10/1/2015,10,2015,Heptageniidae,620.2-089_10_1_2015_1_First
 620.2-086,15-B-075,16112,Hemlock Valley Brook,41.4283,-72.4226,1,Riffle,KN2M2,First,WAA,Heptageniidae,L,1,10/1/2015,10,2015,Heptageniidae,620.2-086_10_1_2015_1_First
 620.2-120,15-B-108,15008,Moosup River,41.7172,-71.8422,1,Riffle,KN2M2,First,WAA,Heptageniidae,L,2,10/6/2015,10,2015,Heptageniidae,620.2-120_10_6_2015_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Hemerodromia,L,1,10/12/2011,10,2011,Hemerodromia,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Hemerodromia,L,1,10/12/2011,10,2011,Hemerodromia,25739_10_12_2011_1_first
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Hemerodromia,L,1,9/19/2011,9,2011,Hemerodromia,25465_9_19_2011_1_First
 25784,11-B-026,15901,Pond Meadow Brook,41.3777,-72.5946,1,Riffle,KN2M2,First,EcoAnalysts,Hemerodromia,L,3,10/13/2011,10,2011,Hemerodromia,25784_10_13_2011_1_First
 25745,11-B-023,16119,Day Pond Brook,41.5623,-72.4338,1,Riffle,KN2M2,First,EcoAnalysts,Hemerodromia,L,2,10/12/2011,10,2011,Hemerodromia,25745_10_12_2011_1_First
@@ -17935,7 +17935,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 6448.5-7,12-B-120,14241,Hockanum River,41.8503,-72.4878,1,Riffle,KN2M2,First,EcoAnalysts,Cryptochironomus,L,3,10/15/2012,10,2012,Cryptochironomus,6448.5-7_10_15_2012_1_First
 6448.5-25,12-B-137,14484,West Branch Salmon Brook,41.9372,-72.8215,1,Riffle,KN2M2,First,EcoAnalysts,Cryptochironomus,L,1,10/16/2012,10,2012,Cryptochironomus,6448.5-25_10_16_2012_1_First
 14566,13-B-099,18498,West Branch Bantam River,41.788153,-73.21877,1,Riffle,KN2M2,First,WAA,Cryptochironomus,L,1,10/8/2013,10,2013,Cryptochironomus,14566_10_8_2013_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Cricotopus trifascia group,L,1,10/12/2011,10,2011,Cricotopus trifascia group,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus trifascia group,L,1,10/12/2011,10,2011,Cricotopus trifascia group,25739_10_12_2011_1_first
 25817,11-B-061,15510,Cobble Brook,41.7454,-73.4542,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus trifascia group,L,1,10/21/2011,10,2011,Cricotopus trifascia group,25817_10_21_2011_1_First
 25789,11-B-031,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus trifascia group,L,1,10/17/2011,10,2011,Cricotopus trifascia group,25789_10_17_2011_1_First
 25793,11-B-035,14226,Harbor Brook,41.5314,-72.8218,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus trifascia group,P,4,10/17/2011,10,2011,Cricotopus trifascia group,25793_10_17_2011_1_First
@@ -18016,7 +18016,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 6448.6-26,12-B-161,14278,Little River,41.6158,-72.0416,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus bicinctus group,L,2,10/23/2012,10,2012,Cricotopus bicinctus group,6448.6-26_10_23_2012_1_First
 25737,11-B-011,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus bicinctus,P,5,10/11/2011,10,2011,Cricotopus bicinctus,25737_10_11_2011_1_First
 25737,11-B-011,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus bicinctus,L,2,10/11/2011,10,2011,Cricotopus bicinctus,25737_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Cricotopus bicinctus,L,5,10/12/2011,10,2011,Cricotopus bicinctus,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus bicinctus,L,5,10/12/2011,10,2011,Cricotopus bicinctus,25739_10_12_2011_1_first
 25785,11-B-027,14221,Hammonasset River,41.3278,-72.6116,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus bicinctus,L,1,10/13/2011,10,2011,Cricotopus bicinctus,25785_10_13_2011_1_First
 25743,11-B-021,16307,Long Hill Brook,41.5408,-72.653,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus bicinctus,L,2,10/12/2011,10,2011,Cricotopus bicinctus,25743_10_12_2011_1_First
 25747,11-B-025,15312,Beaver Brook,41.409952,-72.329059,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus bicinctus,L,2,10/12/2011,10,2011,Cricotopus bicinctus,25747_10_12_2011_1_First
@@ -18075,8 +18075,8 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 620.2-097,15-B-086,14414,Quinnipiac River,41.4501,-72.8407,1,Riffle,KN2M2,First,WAA,Cricotopus bicinctus,L,4,10/2/2015,10,2015,Cricotopus bicinctus,620.2-097_10_2_2015_1_First
 620.2-100,15-B-089,15413,Belcher Brook,41.605,-72.7577,1,Riffle,KN2M2,First,WAA,Cricotopus bicinctus,L,13,10/2/2015,10,2015,Cricotopus bicinctus,620.2-100_10_2_2015_1_First
 25737,11-B-011,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus,L,2,10/11/2011,10,2011,Cricotopus,25737_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Cricotopus,P,1,10/12/2011,10,2011,Cricotopus,25739_10_12_2011_1_first
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Cricotopus,L,1,10/12/2011,10,2011,Cricotopus,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus,P,1,10/12/2011,10,2011,Cricotopus,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus,L,1,10/12/2011,10,2011,Cricotopus,25739_10_12_2011_1_first
 25646,11-B-007,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus,P,2,9/27/2011,9,2011,Cricotopus,25646_9_27_2011_1_First
 25646,11-B-007,14458,Still River,41.4389,-73.401,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus,L,5,9/27/2011,9,2011,Cricotopus,25646_9_27_2011_1_First
 25743,11-B-021,16307,Long Hill Brook,41.5408,-72.653,1,Riffle,KN2M2,First,EcoAnalysts,Cricotopus,P,1,10/12/2011,10,2011,Cricotopus,25743_10_12_2011_1_First
@@ -18672,7 +18672,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 6448.2-13,12-B-051,15176,Natchaug River,41.7569,-72.1523,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra socia,L,40,9/26/2012,9,2012,Chimarra socia,6448.2-13_9_26_2012_1_First
 6448.5-16,12-B-129,14174,East Branch Eightmile River,41.4309,-72.3375,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra socia,L,1,10/15/2012,10,2012,Chimarra socia,6448.5-16_10_15_2012_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra obscura,L,8,10/11/2011,10,2011,Chimarra obscura,25738_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Chimarra obscura,L,30,10/12/2011,10,2011,Chimarra obscura,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra obscura,L,30,10/12/2011,10,2011,Chimarra obscura,25739_10_12_2011_1_first
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra obscura,L,5,9/19/2011,9,2011,Chimarra obscura,25465_9_19_2011_1_First
 25647,11-B-008,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra obscura,L,9,9/27/2011,9,2011,Chimarra obscura,25647_9_27_2011_1_First
 25743,11-B-021,16307,Long Hill Brook,41.5408,-72.653,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra obscura,L,1,10/12/2011,10,2011,Chimarra obscura,25743_10_12_2011_1_First
@@ -18782,7 +18782,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25735,11-B-009,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra aterrima,L,2,10/11/2011,10,2011,Chimarra aterrima,25735_10_11_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra aterrima,L,12,10/11/2011,10,2011,Chimarra aterrima,25738_10_11_2011_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra aterrima,L,5,10/12/2011,10,2011,Chimarra aterrima,25740_10_12_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Chimarra aterrima,L,25,10/12/2011,10,2011,Chimarra aterrima,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra aterrima,L,25,10/12/2011,10,2011,Chimarra aterrima,25739_10_12_2011_1_first
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra aterrima,L,7,9/19/2011,9,2011,Chimarra aterrima,25465_9_19_2011_1_First
 25647,11-B-008,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra aterrima,L,5,9/27/2011,9,2011,Chimarra aterrima,25647_9_27_2011_1_First
 25782,11-B-015,15315,Burnham Brook,41.4603,-72.3343,1,Riffle,KN2M2,First,EcoAnalysts,Chimarra aterrima,L,2,10/11/2011,10,2011,Chimarra aterrima,25782_10_11_2011_1_First
@@ -19248,7 +19248,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25736,11-B-010,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Cheumatopsyche,L,6,10/11/2011,10,2011,Cheumatopsyche,25736_10_11_2011_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Cheumatopsyche,L,57,10/12/2011,10,2011,Cheumatopsyche,25740_10_12_2011_1_First
 25741,11-B-019,16110,Mott Hill Brook,41.6615,-72.5365,1,Riffle,KN2M2,First,EcoAnalysts,Cheumatopsyche,L,15,10/12/2011,10,2011,Cheumatopsyche,25741_10_12_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Cheumatopsyche,L,18,10/12/2011,10,2011,Cheumatopsyche,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Cheumatopsyche,L,18,10/12/2011,10,2011,Cheumatopsyche,25739_10_12_2011_1_first
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Cheumatopsyche,L,20,9/19/2011,9,2011,Cheumatopsyche,25465_9_19_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Cheumatopsyche,L,7,9/19/2011,9,2011,Cheumatopsyche,25462_9_19_2011_1_First
 25463,11-B-002,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Cheumatopsyche,L,7,9/19/2011,9,2011,Cheumatopsyche,25463_9_19_2011_1_First
@@ -19878,7 +19878,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25735,11-B-009,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche sparna,L,5,10/11/2011,10,2011,Ceratopsyche sparna,25735_10_11_2011_1_First
 25736,11-B-010,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche sparna,L,1,10/11/2011,10,2011,Ceratopsyche sparna,25736_10_11_2011_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche sparna,L,9,10/12/2011,10,2011,Ceratopsyche sparna,25740_10_12_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Ceratopsyche sparna,L,7,10/12/2011,10,2011,Ceratopsyche sparna,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche sparna,L,7,10/12/2011,10,2011,Ceratopsyche sparna,25739_10_12_2011_1_first
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche sparna,L,9,9/19/2011,9,2011,Ceratopsyche sparna,25465_9_19_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche sparna,L,3,9/19/2011,9,2011,Ceratopsyche sparna,25462_9_19_2011_1_First
 25647,11-B-008,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche sparna,L,17,9/27/2011,9,2011,Ceratopsyche sparna,25647_9_27_2011_1_First
@@ -20539,7 +20539,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25735,11-B-009,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche bronta,L,10,10/11/2011,10,2011,Ceratopsyche bronta,25735_10_11_2011_1_First
 25736,11-B-010,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche bronta,L,13,10/11/2011,10,2011,Ceratopsyche bronta,25736_10_11_2011_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche bronta,L,10,10/12/2011,10,2011,Ceratopsyche bronta,25740_10_12_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Ceratopsyche bronta,L,3,10/12/2011,10,2011,Ceratopsyche bronta,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche bronta,L,3,10/12/2011,10,2011,Ceratopsyche bronta,25739_10_12_2011_1_first
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche bronta,L,6,9/19/2011,9,2011,Ceratopsyche bronta,25465_9_19_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche bronta,L,11,9/19/2011,9,2011,Ceratopsyche bronta,25462_9_19_2011_1_First
 25463,11-B-002,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche bronta,L,19,9/19/2011,9,2011,Ceratopsyche bronta,25463_9_19_2011_1_First
@@ -20798,7 +20798,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsyche,L,10,10/12/2011,10,2011,Ceratopsyche,25740_10_12_2011_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche,L,9,10/12/2011,10,2011,Ceratopsyche,25740_10_12_2011_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsyche,L,6,10/11/2011,10,2011,Ceratopsyche,25738_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Ceratopsyche,L,15,10/12/2011,10,2011,Ceratopsyche,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche,L,15,10/12/2011,10,2011,Ceratopsyche,25739_10_12_2011_1_first
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche,L,4,9/19/2011,9,2011,Ceratopsyche,25465_9_19_2011_1_First
 25465,11-B-004,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Hydropsyche,L,6,9/19/2011,9,2011,Ceratopsyche,25465_9_19_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Ceratopsyche,L,8,9/19/2011,9,2011,Ceratopsyche,25462_9_19_2011_1_First
@@ -21961,7 +21961,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 620.2-096,15-B-085,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,WAA,Baetis tricaudatus,L,1,10/1/2015,10,2015,Baetis tricaudatus,620.2-096_10_1_2015_1_First
 620.2-111,15-B-099,16110,Mott Hill Brook,41.6615,-72.5365,1,Riffle,KN2M2,First,WAA,Baetis tricaudatus,L,7,10/5/2015,10,2015,Baetis tricaudatus,620.2-111_10_5_2015_1_First
 25741,11-B-019,16110,Mott Hill Brook,41.6615,-72.5365,1,Riffle,KN2M2,First,EcoAnalysts,Baetis pluto,L,3,10/12/2011,10,2011,Baetis pluto,25741_10_12_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Baetis pluto,L,7,10/12/2011,10,2011,Baetis pluto,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Baetis pluto,L,7,10/12/2011,10,2011,Baetis pluto,25739_10_12_2011_1_first
 25645,11-B-006,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Baetis pluto,L,1,9/27/2011,9,2011,Baetis pluto,25645_9_27_2011_1_First
 25784,11-B-026,15901,Pond Meadow Brook,41.3777,-72.5946,1,Riffle,KN2M2,First,EcoAnalysts,Baetis pluto,L,4,10/13/2011,10,2011,Baetis pluto,25784_10_13_2011_1_First
 25743,11-B-021,16307,Long Hill Brook,41.5408,-72.653,1,Riffle,KN2M2,First,EcoAnalysts,Baetis pluto,L,1,10/12/2011,10,2011,Baetis pluto,25743_10_12_2011_1_First
@@ -22578,7 +22578,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Apatania,L,1,10/11/2011,10,2011,Apatania,25738_10_11_2011_1_First
 25735,11-B-009,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Apatania,L,1,10/11/2011,10,2011,Apatania,25735_10_11_2011_1_First
 25736,11-B-010,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Apatania,L,3,10/11/2011,10,2011,Apatania,25736_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Apatania,L,1,10/12/2011,10,2011,Apatania,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Apatania,L,1,10/12/2011,10,2011,Apatania,25739_10_12_2011_1_first
 25463,11-B-002,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Apatania,L,1,9/19/2011,9,2011,Apatania,25463_9_19_2011_1_First
 25645,11-B-006,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Apatania,L,9,9/27/2011,9,2011,Apatania,25645_9_27_2011_1_First
 25780,11-B-013,14720,Green Fall River,41.4568,-71.8169,1,Riffle,KN2M2,First,EcoAnalysts,Apatania,L,2,10/11/2011,10,2011,Apatania,25780_10_11_2011_1_First
@@ -22818,7 +22818,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 620.2-102,15-B-091,14720,Green Fall River,41.4568,-71.8169,1,Riffle,KN2M2,First,WAA,Apatania,L,2,10/5/2015,10,2015,Apatania,620.2-102_10_5_2015_1_First
 25738,11-B-012,14366,Norwalk River,41.246,-73.4341,1,Riffle,KN2M2,First,EcoAnalysts,Antocha,L,1,10/11/2011,10,2011,Antocha,25738_10_11_2011_1_First
 25736,11-B-010,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Antocha,L,1,10/11/2011,10,2011,Antocha,25736_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Antocha,L,3,10/12/2011,10,2011,Antocha,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Antocha,L,3,10/12/2011,10,2011,Antocha,25739_10_12_2011_1_first
 25645,11-B-006,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Antocha,L,1,9/27/2011,9,2011,Antocha,25645_9_27_2011_1_First
 25782,11-B-015,15315,Burnham Brook,41.4603,-72.3343,1,Riffle,KN2M2,First,EcoAnalysts,Antocha,L,4,10/11/2011,10,2011,Antocha,25782_10_11_2011_1_First
 25780,11-B-013,14720,Green Fall River,41.4568,-71.8169,1,Riffle,KN2M2,First,EcoAnalysts,Antocha,L,4,10/11/2011,10,2011,Antocha,25780_10_11_2011_1_First
@@ -23163,7 +23163,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 620.1-141,14-B-156,15854,Muddy River,41.4151,-72.8012,1,Riffle,KN2M2,First,WAA,Ancyronyx variegatus,L,1,10/14/2014,10,2014,Ancyronyx variegatus,620.1-141_10_14_2014_1_First
 620.1-087,14-B-094,16307,Long Hill Brook,41.5408,-72.653,1,Riffle,KN2M2,First,WAA,Ancyronyx variegatus,L,1,10/2/2014,10,2014,Ancyronyx variegatus,620.1-087_10_2_2014_1_First
 620.2-081,15-B-070,16268,Farmill River,41.288,-73.1461,1,Riffle,KN2M2,First,WAA,Ancyronyx variegatus,L,1,9/28/2015,9,2015,Ancyronyx variegatus,620.2-081_9_28_2015_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Ancylidae,A,2,10/12/2011,10,2011,Ancylidae,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Ancylidae,A,2,10/12/2011,10,2011,Ancylidae,25739_10_12_2011_1_first
 25744,11-B-022,14441,Salmon River,41.5742,-72.4294,1,Riffle,KN2M2,First,EcoAnalysts,Ancylidae,A,2,10/12/2011,10,2011,Ancylidae,25744_10_12_2011_1_First
 25811,11-B-053,15426,Bladens River (Bladdens River),41.3872,-73.0191,1,Riffle,KN2M2,First,EcoAnalysts,Ancylidae,A,1,10/20/2011,10,2011,Ancylidae,25811_10_20_2011_1_First
 25805,11-B-040,14445,Saugatuck River,41.1693,-73.367,1,Riffle,KN2M2,First,EcoAnalysts,Ancylidae,A,1,10/18/2011,10,2011,Ancylidae,25805_10_18_2011_1_First
@@ -23363,7 +23363,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 620.1-127,14-B-137,14586,Hop River,41.7212,-72.2548,1,Riffle,KN2M2,First,WAA,Acroneuria carolinensis,L,1,10/9/2014,10,2014,Acroneuria carolinensis,620.1-127_10_9_2014_1_First
 620.2-066,15-B-058,16127,Jakes Brook,41.864151,-73.167442,1,Riffle,KN2M2,First,WAA,Acroneuria carolinensis,L,1,9/23/2015,9,2015,Acroneuria carolinensis,620.2-066_9_23_2015_1_First
 25740,11-B-018,14470,Tankerhoosen River,41.8272,-72.464,1,Riffle,KN2M2,First,EcoAnalysts,Acroneuria abnormis,L,12,10/12/2011,10,2011,Acroneuria abnormis,25740_10_12_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Acroneuria abnormis,L,1,10/12/2011,10,2011,Acroneuria abnormis,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Acroneuria abnormis,L,1,10/12/2011,10,2011,Acroneuria abnormis,25739_10_12_2011_1_first
 25463,11-B-002,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Acroneuria abnormis,L,1,9/19/2011,9,2011,Acroneuria abnormis,25463_9_19_2011_1_First
 25644,11-B-005,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Acroneuria abnormis,L,1,9/27/2011,9,2011,Acroneuria abnormis,25644_9_27_2011_1_First
 25780,11-B-013,14720,Green Fall River,41.4568,-71.8169,1,Riffle,KN2M2,First,EcoAnalysts,Acroneuria abnormis,L,5,10/11/2011,10,2011,Acroneuria abnormis,25780_10_11_2011_1_First
@@ -23799,7 +23799,7 @@ LAB_ID,CTDEEP LabID,STA_SEQ,Station_Name,YLat,XLong,Rep,Habitat,Device,Subsample
 620.2-064,15-B-056,16114,Rugg Brook,41.9328,-73.1214,1,Riffle,KN2M2,First,WAA,Acerpenna,L,1,9/23/2015,9,2015,Acerpenna,620.2-064_9_23_2015_1_First
 25735,11-B-009,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Acentrella turbida,L,15,10/11/2011,10,2011,Acentrella turbida,25735_10_11_2011_1_First
 25736,11-B-010,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Acentrella turbida,L,4,10/11/2011,10,2011,Acentrella turbida,25736_10_11_2011_1_First
-25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,first,EcoAnalysts,Acentrella turbida,L,1,10/12/2011,10,2011,Acentrella turbida,25739_10_12_2011_1_first
+25739,11-B-017 first,14469,Tankerhoosen River,41.8201,-72.5033,1,Riffle,KN2M2,First,EcoAnalysts,Acentrella turbida,L,1,10/12/2011,10,2011,Acentrella turbida,25739_10_12_2011_1_first
 25644,11-B-005,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Acentrella turbida,L,18,9/27/2011,9,2011,Acentrella turbida,25644_9_27_2011_1_First
 25462,11-B-001,15530,Weekeepeemee River,41.5575,-73.2155,1,Riffle,KN2M2,First,EcoAnalysts,Acentrella turbida,L,10,9/19/2011,9,2011,Acentrella turbida,25462_9_19_2011_1_First
 25463,11-B-002,14450,Shepaug River,41.5489,-73.3308,1,Riffle,KN2M2,First,EcoAnalysts,Acentrella turbida,L,4,9/19/2011,9,2011,Acentrella turbida,25463_9_19_2011_1_First
