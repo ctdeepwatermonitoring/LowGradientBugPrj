@@ -27,22 +27,6 @@ Another advantage of Git is that repositories are always downloaded, stored, and
 
 Today, another huge advantage of using Git is its close integration with [GitHub](https://github.com/). **GitHub** is a company that provides a Git-enabled platform to share your Git repositories. This is very powerful as it allows other people to collaborate with you on the same repository, and you can even share your projects with the broader public via open web pages. During the course, you will also use this mechanism to submit and share your assignments with your instructors.
 
-### Setting up an (educational) account with GitHub
-
-To get started with GitHub, you first need to create an account (actually, you'll have already created one to access this information, but here it is again).  
-
-Navigate to [https://github.com/](https://github.com/) and sign up with a username, password and email address. **Make sure you use your @uky.edu address as you need it for the next step.** It also may be useful to use the same username you use for CARTO, Mapbox, and other online accounts, for consistency across your own personal branding.
-
-Once you create your account, take a moment to update your profile (under **Your profile**) by clicking on the avatar upper-right corner. Uploading an image of yourself (or some other fun image) is nice, as well as giving your name, location, and a URL to a website if you have one.
-
-GitHub is free to use but it also has paid plans. These paid plans offer the possibility of making repositories private instead of public. This is very helpful while we’re still learning as we may not want our stumbles and ugly code to be visible to the entire world. Later on, private repositories are when working for a client who wants to keep data and development private for the time being.
-
-Fortunately, GitHub provides this service of private repositories free-of-charge to students! Once you’re signed-up, go to [GitHub Education](https://education.GitHub.com/) and click on the blue "Get the Pack" button. It includes access to GitHub private repositories as well as a bunch of other cool stuff.
-
-![GitHub Education](graphics/github-education.png)  
-Figure 02. GitHub Education
-
-Sign in with your GitHub account (if you haven’t done so already), click "Request a Discount", and follow the instructions. GitHub will ask you to submit a request using your `@uky.edu` account. Once you’ve submitted, it may take a short while to get approved (3 - 5 days).
 
 ### Download GitHub for Mac/Windows and basic configuration
 
@@ -66,7 +50,7 @@ Navigate to your repo or search for it within the **Filter** (if this is your fi
 
 **NOTE:** Throughout this lesson, when "username" is written you should substitute your own GitHub username.
 
-![Cloning the weekly module repository in GitHub](graphics/02-clone-repo.png)  
+![Cloning the weekly module repository in GitHub](graphicsForGitReadMe/02-clone-repo.png)  
 Figure 03. Cloning the weekly module repository in GitHub
 
 GitHub Desktop will then clone (i.e., make a copy of) the *map671-module-01-username* repository on your local machine. Select a location on your computer to save your repository. It doesn't matter where it is, as long as you remember where. As always when working on a computer, **stay organized and know where on your system your files/directories are**!
@@ -75,7 +59,7 @@ It would make sense to create one directory named something like *map671* and cl
 
 After you click **Clone**, GitHub Desktop will copy the repository from the remote web server to your local machine. Once it's complete, you can verify the process by looking at the repository within your local file/directory structure (hint: you can right-click on any repo name within GitHub Desktop and choose **Open in Finder**).
 
-![Opening the local repository directory through Finder](graphics/03-show-repo.png)  
+![Opening the local repository directory through Finder](graphicsForGitReadMe/03-show-repo.png)  
 Figure 04. Opening the local repository directory through Finder
 
 When you open this repository in your file/directory structure, you'll see that the repository is contained within a directory named *map671-module-01-username*. Within this repo, you'll see the *README.md* file that is this lesson.
@@ -84,12 +68,12 @@ You may also see a (hidden) directory is named *.git* (if not you can enable you
 
 Switch back to GitHub Desktop. Note that at the top of the window are two tabs: One says "No Uncommitted Changes." This indicates that you currently have no committed changes recorded by Git, and the panel below indicates "0 changes."
 
-![No uncommitted changes in the repository](graphics/03.5-no-changes.png)  
+![No uncommitted changes in the repository](graphicsForGitReadMe/03.5-no-changes.png)  
 Figure 05. No uncommitted changes in the repository
 
 Next, click on the **History** tab. This will show you all the committed changes to your repository. Here we see there is the commit history of recent changes made to the repository.
 
-![Viewing the commit history of the repository](graphics/04-initial-commit.png)  
+![Viewing the commit history of the repository](graphicsForGitReadMe/04-initial-commit.png)  
 Figure 06. Viewing the commit history of the repository
 
 All further changes and commits will first happen within your local development environment and then pushed up to the remote copy of the repository. Let's practice doing that now.
@@ -100,7 +84,7 @@ Going to **Packages -> Live Server ->** in the file menu allows you to open the 
 
 Go ahead and launch the live server. You'll see the file/directory structure now within your web browser, and navigating to within the *lab-01/* The application should open the file within your web browser, and you should see a basic web map centered on Lexington.
 
-![Index.html file served using atom-live-server package](graphics/05-live-server.png)  
+![Index.html file served using atom-live-server package](graphicsForGitReadMe/05-live-server.png)  
 Figure 07. Index.html file served using atom-live-server package
 
 We'll be covering how this file makes the web map and page in subsequent modules. For now, let's make a few modifications to the file to better understand the Git process.
@@ -132,7 +116,7 @@ After you save the changes, switch to your web browser. You can see your heading
 
 Now switch back to the GitHub Desktop. We can see at the top of the client that there is "**1 Uncommitted Change.**" Click on this tab. In the right-hand panel, you can see the previous text highlighted in red, and the new text highlighted in green. In Git-speak, this is called a "diff" — it shows the difference between two version of the same file. You have removed lines with a small "-" and have added those with a small "+." Green and red colors indicate key additions/removals.
 
-![Seeing one uncommitted change in GitHub Desktop](graphics/06-make-change.png)  
+![Seeing one uncommitted change in GitHub Desktop](graphicsForGitReadMe/06-make-change.png)  
 Figure 08. Seeing one uncommitted change in GitHub Desktop
 
 Next, let's commit this change to our repository. A commit bundles anything that has changed and creates a snapshot of the current state of the repository. Each commit then becomes an individual snapshot that you can access later.
@@ -147,5 +131,5 @@ In this case I'll enter the commit message "update page h1 heading" and click **
 
 After clicking **Commit to master**, GitHub Desktop returns to show there are **"No Uncommitted Changes."** Clicking back to the **History** panel how displays the most recent commit message.
 
-![History panel of GitHub Desktop showing the last two commits](graphics/07-commit-change.png)  
+![History panel of GitHub Desktop showing the last two commits](graphicsForGitReadMe/07-commit-change.png)  
 Figure 09. History panel of GitHub Desktop showing the last two commits
