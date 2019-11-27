@@ -1,4 +1,4 @@
-Source:  Faculty at UKY Digital Mapping
+Modified from digital mapping coursework 671.  Original Created by Faculty at UKY Digital Mapping.
 
 ### Introduction: What is Git?
 
