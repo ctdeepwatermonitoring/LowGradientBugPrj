@@ -3,6 +3,7 @@ setwd("/home/mkozlak/Documents/Projects/GitHub/LowGradientBugPrj")#Set your work
 ##Libraries to Load
 library(leaflet)
 library(ggplot2)
+library(stringr)
 
 ##Import the data
 mastertaxa<-read.csv("data/masterTaxalist.csv",header=TRUE,stringsAsFactors = FALSE)
@@ -18,6 +19,12 @@ sitemap<-leaflet(data=sites) %>%
             addTiles() %>%
             addCircleMarkers(lng=sites$XLong,lat =sites$YLat,label=paste(sites$STA_SEQ," ",sites$Station_Name))
 sitemap
+
+##Get all of the unique samples in the dataset and get start and end of years
+samples<-unique(taxa[c("STA_SEQ","Station_Name","Sample_Date","VisitNum")])
+samples$Year<-as.numeric(str_sub(samples$Sample_Date,-4,-1))
+min(samples$Year)
+max(samples$Year)
 
 ##Merge the taxa data with the Master Taxa List
 taxaM <- merge(taxa,mastertaxa,by.x="TaxonNameCurrent",by.y="finalID")
